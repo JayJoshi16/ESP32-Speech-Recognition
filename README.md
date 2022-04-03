@@ -1,1 +1,1 @@
-# ESP32-Speech-Recognition
+# Simplest ESP32 offline Speech Recognition 
